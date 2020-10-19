@@ -1,4 +1,4 @@
-The <a href="https://spujol.github.io/SlicerRegistrationTutorial/SlicerRegistrationTutorial_SoniaPujol.pdf" target="_blank"> Slicer Registration tutorial </a> shows how to perform intra- and inter-subject registration within Slicer.
+The <a href="https://spujol.github.io/SlicerRegistrationTutorial/SlicerRegistrationTutorial__SoniaPujol.pdf" target="_blank"> Slicer Registration tutorial </a> shows how to perform intra- and inter-subject registration within Slicer.
 
 Author:
 Sonia Pujol, Ph.D, Director of 3D Slicer Training & Education, Assistant Professor of Radiology, Brigham and Women's Hospital, Harvard Medical School

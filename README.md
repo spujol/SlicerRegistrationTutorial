@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+The <a href="https://spujol.github.io/SlicerRegistrationTutorial/SlicerRegistrationTutorial_SoniaPujol.pdf" target="_blank"> Slicer Registration tutorial </a> shows how to perform intra- and inter-subject registration within Slicer.
 
-You can use the [editor on GitHub](https://github.com/spujol/SlicerRegistrationTutorial/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Author:
+Sonia Pujol, Ph.D, Director of 3D Slicer Training & Education, Assistant Professor of Radiology, Brigham and Women's Hospital, Harvard Medical School
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Materials:
+* Software: Click on [3D Slicer version 4.11](https://download.slicer.org/) to access the Slicer download page.
+* Dataset: Click on [Registration tutorial dataset](https://www.dropbox.com/s/03emcqnlec4t2s5/RegistrationData.zip?dl=1) to download the tutorial dataset.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spujol/SlicerRegistrationTutorial/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
